@@ -25,12 +25,12 @@ Three Oaks Trail is a React-based project designed to help users explore and lea
    cd three-oaks-trail
 
 3. **Install dependencies:**
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. **Start the development server:**
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 5. **Open http://localhost:3000 to view the app in your browser.**
 

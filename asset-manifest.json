@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Three-Oaks-Trail/static/css/main.478a53c4.css",
+    "main.js": "/Three-Oaks-Trail/static/js/main.39c2a3a6.js",
+    "static/media/trail.jpg": "/Three-Oaks-Trail/static/media/trail.2969f8e1385ea9fb3a7a.jpg",
+    "static/media/winter.jpg": "/Three-Oaks-Trail/static/media/winter.098bc8248586b272ff77.jpg",
+    "static/media/waterfall.jpg": "/Three-Oaks-Trail/static/media/waterfall.570c7231927838f5ecb9.jpg",
+    "static/media/banner.jpg": "/Three-Oaks-Trail/static/media/banner.7098279196b21aea24e7.jpg",
+    "static/media/horseback.jpg": "/Three-Oaks-Trail/static/media/horseback.105865dc8f307eaca745.jpg",
+    "static/media/favicon.png": "/Three-Oaks-Trail/static/media/favicon.ed5c1dd4fc4802e9fc23.png",
+    "index.html": "/Three-Oaks-Trail/index.html",
+    "main.478a53c4.css.map": "/Three-Oaks-Trail/static/css/main.478a53c4.css.map",
+    "main.39c2a3a6.js.map": "/Three-Oaks-Trail/static/js/main.39c2a3a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478a53c4.css",
+    "static/js/main.39c2a3a6.js"
+  ]
+}

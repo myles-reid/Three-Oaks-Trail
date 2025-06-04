@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+:root {
+  --dark-bg: #1a1d28;
+  --light-bg: #f9f9f9;
+
+  --header-bg: #8b9963;
+  --green-bg: #C6D2A3;
+  --dark-green-bg: #273103;
+
+  --box-bg: #0a0a0a;
+  --text-colour: #f9f9f9;
+  --text-colour-dark: #0a0a0a;
+
+  --box-radius: 6px;
+  --box-shadow: 0px 0px 4px rgb(0 0 0 / 40%);
+}
